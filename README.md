@@ -1,5 +1,8 @@
+![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 <h1 align="center">Hi 👋, I'm Viet Anh</h1>
 <h3 align="center">A frontend developer who love code and animals</h3>
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanhhavesomuchcute&label=Profile%20views&color=0e75b6&style=flat" alt="vanhhavesomuchcute" /> </p>
 
